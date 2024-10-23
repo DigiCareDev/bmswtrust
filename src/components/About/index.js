@@ -11,7 +11,7 @@ function About() {
                     {/* Left Side - Header, Subheader, and Content */}
                     <div className="md:w-1/2 mb-8 md:mb-0">
                         <h1 className="text-4xl font-semibold text-blue-800 mb-4 text-blue-800">Who We Are ?</h1>
-                        <p className="text-gray-800 text-2xl">
+                        <p className="text-gray-800 text-xl">
                         The Settlor aims to establish various institutions dedicated to the promotion of education, medical care, and health services in the State of Uttar Pradesh and other locations across India. These institutions will include medical colleges, hospitals, nursing homes, charitable dispensaries, schools, colleges, technical colleges, nursing and paramedical colleges, as well as centers offering degree and diploma courses. The initiative seeks to provide educational and vocational opportunities for boys and girls while delivering medical health services to the general public. To support these objectives, the Settlor will arrange funds and other necessary assets from time to time, catering to both short-term and long-term requirements as needed.                         </p>
                             <div className=''>
                                 <div className='bg-white text-xl shadow-lg p-6 rounded-lg hover:shadow-xl transition-shadow m-1'>

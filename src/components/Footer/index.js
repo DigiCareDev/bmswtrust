@@ -17,7 +17,7 @@ function Footer() {
                                 alt="BM Social Media Welfare"
                                 className='rounded-sm'
                             />
-                            <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white mt-4 md:mt-0 md:ml-3">BM Social Welfare Trust</span>
+                            <span className="self-center mx-40 text-xl font-semibold whitespace-nowrap dark:text-white mt-4 md:mt-0 md:ml-3">BM Social Welfare Trust</span>
                         </a>
                     </div>
 
@@ -25,7 +25,7 @@ function Footer() {
                     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 ">
                         {/* Resources */}
                         <div>
-                            <h2 className="mb-2 mt-4 text-3xl font-semibold text-blue-900 uppercase dark:text-white">Resources</h2>
+                            <h2 className="mb-2 mt-4 text-xl font-semibold text-blue-900 uppercase dark:text-white">Resources</h2>
                             <ul className="text-gray-500 dark:text-gray-400 font-medium">
                                 <li className="mb-1 text-xl text-blue-800">
                                     <a href="#home" className="hover:underline">Home</a>
@@ -47,7 +47,7 @@ function Footer() {
 
                         {/* Contact Us */}
                         <div>
-                            <h2 className="mb-2 mt-4 text-3xl font-semibold text-blue-900 uppercase dark:text-white">Contact Us</h2>
+                            <h2 className="mb-2 mt-4 text-xl font-semibold text-blue-900 uppercase dark:text-white">Contact Us</h2>
                             <ul className="text-gray-500 dark:text-gray-400 font-medium">
                                 <li className="mb-2 text-lg">
                                     <a href="mailto:info@bmswtrust.org" className="hover:underline ">Email : info@bmswtrust.org</a>
