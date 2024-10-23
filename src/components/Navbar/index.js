@@ -1,7 +1,7 @@
 'use client'
-
 import React, { useState } from 'react';
 import Logo from '../../Assets/logo.jpg';
+import Image from 'next/image';
 import { FcCustomerSupport } from "react-icons/fc";
 
 function Index() {
@@ -20,7 +20,7 @@ function Index() {
                         {/* Logo on the left */}
                         <div className="flex flex-1 items-center justify-start sm:items-stretch">
                             <div className="flex flex-shrink-0 items-center">
-                                <img
+                                <Image
                                     src={Logo}
                                     width={80}
                                     height={80}
