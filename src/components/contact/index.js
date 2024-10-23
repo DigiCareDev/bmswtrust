@@ -18,8 +18,8 @@ function index() {
                         <FaEnvelope className="text-blue-500 w-6 h-6 mr-4 mb-2" />
                         <div>
                             <h2 className="text-xl font-semibold">Email</h2>
-                            <a href="mailto:info@progatetechnology.com" className="text-gray-600">
-                                info@progatetechnology.com
+                            <a href="mailto:info@bmswtrust.org" className="text-gray-600">
+                            info@bmswtrust.org
                             </a>
                         </div>
                     </div>
