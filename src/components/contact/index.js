@@ -40,7 +40,7 @@ function index() {
                         <FaMapMarkerAlt className="text-red-500 w-6 h-6 mr-4 mb-2" />
                         <div>
                             <h2 className="text-xl font-semibold">Address</h2>
-                            <p className="text-gray-600">Plot 6 & 7, Prem Nagar, Laulai, Lucknow, UP - 226028</p>
+                            <p className="text-gray-600">07,Khasra No.426SA ,Laulai ,Mallhaur ,Lucknow -226028</p>
                         </div>
                     </div>
                 </div>
