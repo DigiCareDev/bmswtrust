@@ -30,7 +30,7 @@ function index() {
                         <div>
                             <h2 className="text-xl font-semibold">Call Us</h2>
                             <a href="tel:+919305111069" className="text-gray-600">
-                                +91-9305111069
+                                +91-8373962115
                             </a>
                         </div>
                     </div>
